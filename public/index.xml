@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://matias-palominos.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>E0-Trabajos Representativos</title>
+      <title>E1.0-Trabajos Representativos</title>
       <link>https://matias-palominos.github.io/docs/e0/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>E1-Referentes Mobiliarios</title>
+      <title>E1.1-Referentes Mobiliarios</title>
       <link>https://matias-palominos.github.io/docs/e1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>E3-Familia Mobiliario</title>
+      <title>E1.3-Familia Mobiliario</title>
       <link>https://matias-palominos.github.io/docs/e3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>E4-Avance Grupal</title>
+      <title>E1.4-Avance Grupal</title>
       <link>https://matias-palominos.github.io/docs/e4/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>E5 - Mobiliario Individual</title>
+      <title>E1.5 - Mobiliario Individual</title>
       <link>https://matias-palominos.github.io/docs/e5/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>E6 - Presentacion Mobiliario</title>
+      <title>E1.6 - Presentacion Mobiliario</title>
       <link>https://matias-palominos.github.io/docs/e6/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -71,20 +71,29 @@
     </item>
     
     <item>
+      <title>E2.1 - Recap</title>
+      <link>https://matias-palominos.github.io/docs/e2.1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://matias-palominos.github.io/docs/e2.1/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>E2.2 - Introduccion a Fusion 360 - Ejercicio Moldes</title>
+      <link>https://matias-palominos.github.io/docs/e2.2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://matias-palominos.github.io/docs/e2.2/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
       <title>E2.3 - Folding para alimentos </title>
       <link>https://matias-palominos.github.io/docs/e2.3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://matias-palominos.github.io/docs/e2.3/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>e2.1 - Recap</title>
-      <link>https://matias-palominos.github.io/docs/e2.1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://matias-palominos.github.io/docs/e2.1/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
@@ -104,15 +113,6 @@
       
       <guid>https://matias-palominos.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>E2.2 - Introduccion a Fusion 360 - Ejercicio Moldes</title>
-      <link>https://matias-palominos.github.io/docs/e2.2/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://matias-palominos.github.io/docs/e2.2/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
   </channel>
