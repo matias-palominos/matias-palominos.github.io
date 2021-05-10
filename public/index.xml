@@ -80,11 +80,11 @@
     </item>
     
     <item>
-      <title>E2.2 - Introduccion a Fusion 360 / Ejercicio Moldes</title>
-      <link>https://matias-palominos.github.io/docs/e2.2/</link>
+      <title>e2.1 - Recap</title>
+      <link>https://matias-palominos.github.io/docs/e2.1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://matias-palominos.github.io/docs/e2.2/</guid>
+      <guid>https://matias-palominos.github.io/docs/e2.1/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
@@ -104,6 +104,15 @@
       
       <guid>https://matias-palominos.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>E2.2 - Introduccion a Fusion 360 - Ejercicio Moldes</title>
+      <link>https://matias-palominos.github.io/docs/e2.2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://matias-palominos.github.io/docs/e2.2/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
   </channel>
